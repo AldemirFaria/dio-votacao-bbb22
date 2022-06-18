@@ -1,0 +1,56 @@
+========================================================================
+                              Criando o sistema de VOTAÇÃO ONLINE do BBB 22
+========================================================================
+Live Coding - Criando o sistema de VOTAÇÃO ONLINE do BBB 22 (Parte 1)
+https://youtu.be/pxHTbtKc2RM
+https://github.com/rodrigogts/dio-bbb-p1
+
+E aí Dev, você também se perguntou: Como o sistema de votação online do #BBB conseguiu suportar mais de 3 milhões de votos por minuto no paredão entre Jade Picon e Arthur Aguiar no BBB 22? Quais as tecnologias atuais que podem suportar uma carga tão alta de dados em um intervalo de tempo tão curto?
+
+É isso que Rodrigo Tavares da Avanade, com a participação especial da querida Stephanie Cardoso, que é Software Developer na Globo, vão responder.
+
+Vamos juntos aprender a criar e simular o sistema de votação do BBB, incrível não é mesmo?
+
+Então, pega o controle remo… ops. Abra seu editor de código favorito, já deixe seu like, pegue um cafezinho e bora codar.
+
+Tecnologias Utilizadas
+- Angular de front-end;
+- Spring Boot;
+- Kafka;
+- MongoDB;
+
+LINKS E MATERIAIS: 
+Download MongoDB Community Server: https://www.mongodb.com/try/download/community 
+Spring Boot: https://spring.io/projects/spring-boot
+Apache Kafka: https://kafka.apache.org/
+Angular: https://angular.io/
+
+========================================================================
+Live Coding - Recriando a Votação do BBB com Angular e Spring Boot (Parte 2)
+https://youtu.be/QvCYkNvS8Qo
+https://github.com/rodrigogts/dio-bbb-p2
+
+Nessa sessão de Live Coding vamos continuar o desenvolvimento do nosso projeto. O objetivo principal é fazer uma simulação da página de votação do BBB com Angular de front-end, integrado com Spring Boot, Kafka e MongoDB. Vamos desenvolver todo o back-end e front-end durante a live, além de mostrar possíveis abordagens de segurança para evitar a utilização de robôs.
+
+PRÉ-REQUISITOS
+- Parte 1: https://youtu.be/pxHTbtKc2RM
+- MongoDb
+- Kafka
+- Ambiente de desenvolvimento Java 11+
+
+========================================================================
+Live Coding - Finalizando o Projeto: Recriando a Votação do BBB com Angular e Spring Boot (Parte 3)
+https://youtu.be/yl3fWcwqXb4
+https://github.com/rodrigogts/dio-bbb-p3
+
+Nessa sessão de Live Coding vamos FINALIZAR o desenvolvimento do nosso projeto. O objetivo é construir uma simulação da página de votação do BBB com Angular (front-end), integrado com Spring Boot, Kafka e MongoDB (back-end). Este projeto foi dividido em 3 partes e nessa sessão final vamos integrar o front-end com o back-end, explorando as melhores práticas no consumo de APIs REST com Angular, além de refletir sobre eventuais evoluções em nossa solução como um todo.
+
+PRÉ-REQUISITOS
+- Parte 1: https://youtu.be/pxHTbtKc2RM
+- Parte 2: https://youtu.be/QvCYkNvS8Qo
+- MongoDb
+- Kafka
+- Ambiente de desenvolvimento Java 11+
+========================================================================
+
+
